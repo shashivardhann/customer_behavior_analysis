@@ -113,7 +113,7 @@ Better strategic insights for stakeholders
 
 Clone the repository:
 
-git clone https://github.com/your-username/data-analytics-project.git
+git clone [https://github.com/your-username/data-analytics-project.git](https://github.com/shashivardhann/customer_behavior_analysis?tab=readme-ov-file)
 
 
 Install required Python libraries:
